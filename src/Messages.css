@@ -1,0 +1,18 @@
+.msg {
+  width: fit-content;
+  padding: 10px;
+  margin: 10px;
+}
+
+.msg__user {
+  margin-left: auto;
+  color: white;
+  text-align: left !important;
+}
+.msg__currentUser {
+  background-color: blue !important;
+  color: white !important;
+}
+.msg__guestUser {
+  background-color: grey !important;
+}
